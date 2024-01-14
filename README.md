@@ -1,4 +1,4 @@
-#  Data Driven Computer Science COMS20011 23-24
+# DDCS: Data Driven Computer Science - COMS20011 23-24
 The course will teach the basics of how to reason with data!
 
 ## Staff
