@@ -42,3 +42,19 @@ All lecture recordings eventually appear on the Re/Play system in BlackBoard afe
 | Year  | Paper | Answers | Questions to ignore |
 | ----- | ----- | ------- | --- |
 Papers will be posted here in due course (after Week 20)
+
+
+## Weekly Lecture materials
+
+#### Introduction (Majid)
+
+#### Week 13: 23/01/2023
+
+| Lecture |  slides |
+| ------ | ---- |
+| MM01. Intro to COMS20011 - quite fishy |  |
+
+
+#### Week 14: 30/01/2023
+| Lecture |  slides |
+| ------ | ---- |
