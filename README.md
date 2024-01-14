@@ -28,3 +28,17 @@ All lecture recordings eventually appear on the Re/Play system in BlackBoard afe
 
 ## Teams:
 * The Teams Team is [["COMS20011: Data-Driven Computer Science 2023/24"]](https://teams.microsoft.com/l/team/19%3a0DQ-4IeBWTiBTCNmPvAmkc-CjNXlKFBJHObtpLyHaVw1%40thread.tacv2/conversations?groupId=5928cfed-1e17-4d2b-a3a7-4ab403410857&tenantId=b2e47f30-cd7d-4a4e-a5da-b18cf1a4151b).  You should have access already through the "Teams" panel.  If not, please get in touch with the COMS Student Enquiries Mailbox at coms-student-enquiries@bristol.ac.uk
+
+## Exam info:
+* The course is assessed 100% by a multiple-choice exam.
+* The exam will have ?? questions, and will be 2 hours. It does require a calculator.
+* If you have any questions regarding alternative exam arrangements, please get in touch with the COMS Student Enquiries Mailbox at coms-student-enquiries@bristol.ac.uk
+* Example past papers will be released soon after Week 20. 
+* There will be a formulae sheet with the exam.
+* We do not allow cheat-sheets for this exam.
+* You are allowed to write on the exam paper, and we have a number of sheets at the back of the exam paper that are explicitly for workings out!  (Apparently, the invigilators aren't allowed to give you extra paper for workings out in MCQ exams, for some reason that nobody seems to know...)
+
+## Past exams:
+| Year  | Paper | Answers | Questions to ignore |
+| ----- | ----- | ------- | --- |
+Papers will be posted here in due course (after Week 20)
