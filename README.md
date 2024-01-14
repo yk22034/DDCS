@@ -33,15 +33,12 @@ All lecture recordings eventually appear on the Re/Play system in BlackBoard afe
 * The course is assessed 100% by a multiple-choice exam.
 * The exam will have ?? questions, and will be 2 hours. It does require a calculator.
 * If you have any questions regarding alternative exam arrangements, please get in touch with the COMS Student Enquiries Mailbox at coms-student-enquiries@bristol.ac.uk
-* Example past papers will be released soon after Week 20.
 * There will be a formulae sheet with the exam.
 * We do NOT allow cheat-sheets for this exam.
 
 
-## Past exams:
-| Year  | Paper | Answers | Questions to ignore |
-| ----- | ----- | ------- | --- |
-Papers will be posted here in due course (after Week 20)
+## Past exam papers:
+* Example past papers will be released soon after Week 20.
 
 ---
 
