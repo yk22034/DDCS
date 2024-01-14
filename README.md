@@ -45,7 +45,7 @@ Papers will be posted here in due course (after Week 20)
 
 ---
 
-## <ins>Weekly Lecture materials</ins>
+## Weekly Lecture materials
 
 #### Introduction (Majid)
 
