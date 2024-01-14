@@ -44,7 +44,7 @@ All lecture recordings eventually appear on the Re/Play system in BlackBoard afe
 
 ## Weekly Lecture materials
 
-#### Introduction (Majid)
+### Introduction (Majid)
 
 #### Week 13: 23/01/2023
 
