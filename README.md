@@ -1,4 +1,4 @@
-# # Data Driven Computer Science COMS20011 23-24
+#  Data Driven Computer Science COMS20011 23-24
 The course will teach the basics of how to reason with data!
 
 ## Staff
@@ -14,6 +14,7 @@ The course will teach the basics of how to reason with data!
   - Group 1: Thursday 1-2pm in MVB 2.11
   - Group 2: Thursday 2-3pm in MVB 2.11
 
+
 ## Lecture recordings:
 All lecture recordings eventually appear on the Re/Play system in BlackBoard afew hours after the event. Click on Re/Play on the left menu bar on the BB course webpage to find them.
 
@@ -23,6 +24,7 @@ All lecture recordings eventually appear on the Re/Play system in BlackBoard afe
 * Material in the labs may appear in the exam.
 * *The labs are the primary route for feedback on all aspects of the course, including lectures, any question sheets and exams, not just the labs!!!!*
 * The lab exercises will be released in the /labs/ folder.
+* TAs: Xuan kong, Zheng Dong, Lucas Mockeridge, Harleen Gulati, Austin Long, Deep Pawar, Jeein Park
 
-# Teams:
-* The Teams Team is "COMS20011: Data-Driven Computer Science 2023/24" (https://teams.microsoft.com/l/team/19%3a0DQ-4IeBWTiBTCNmPvAmkc-CjNXlKFBJHObtpLyHaVw1%40thread.tacv2/conversations?groupId=5928cfed-1e17-4d2b-a3a7-4ab403410857&tenantId=b2e47f30-cd7d-4a4e-a5da-b18cf1a4151b).  You should have access already through the "Teams" panel.  If not, please get in touch with the COMS Student Enquiries Mailbox at coms-student-enquiries@bristol.ac.uk
+## Teams:
+* The Teams Team is [["COMS20011: Data-Driven Computer Science 2023/24"]] (https://teams.microsoft.com/l/team/19%3a0DQ-4IeBWTiBTCNmPvAmkc-CjNXlKFBJHObtpLyHaVw1%40thread.tacv2/conversations?groupId=5928cfed-1e17-4d2b-a3a7-4ab403410857&tenantId=b2e47f30-cd7d-4a4e-a5da-b18cf1a4151b).  You should have access already through the "Teams" panel.  If not, please get in touch with the COMS Student Enquiries Mailbox at coms-student-enquiries@bristol.ac.uk
