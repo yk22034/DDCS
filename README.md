@@ -27,7 +27,7 @@ All lecture recordings eventually appear on the Re/Play system in BlackBoard afe
 * TAs: Xuan kong, Zheng Dong, Lucas Mockeridge, Harleen Gulati, Austin Long, Deep Pawar, Jeein Park
 
 ## Teams:
-* The Teams Team is [["COMS20011: Data-Driven Computer Science 2023/24"]](https://teams.microsoft.com/l/team/19%3a0DQ-4IeBWTiBTCNmPvAmkc-CjNXlKFBJHObtpLyHaVw1%40thread.tacv2/conversations?groupId=5928cfed-1e17-4d2b-a3a7-4ab403410857&tenantId=b2e47f30-cd7d-4a4e-a5da-b18cf1a4151b).  You should have access already through the "Teams" panel.  If not, please get in touch with the COMS Student Enquiries Mailbox at coms-student-enquiries@bristol.ac.uk
+* The Teams Team is [[COMS20011: Data-Driven Computer Science 2023/24]](https://teams.microsoft.com/l/team/19%3a0DQ-4IeBWTiBTCNmPvAmkc-CjNXlKFBJHObtpLyHaVw1%40thread.tacv2/conversations?groupId=5928cfed-1e17-4d2b-a3a7-4ab403410857&tenantId=b2e47f30-cd7d-4a4e-a5da-b18cf1a4151b).  You should have access already through the "Teams" panel.  If not, please get in touch with the COMS Student Enquiries Mailbox at coms-student-enquiries@bristol.ac.uk
 
 ## Exam info:
 * The course is assessed 100% by a multiple-choice exam.
@@ -46,13 +46,15 @@ All lecture recordings eventually appear on the Re/Play system in BlackBoard afe
 
 ### Introduction (Majid)
 
-#### Week 13: 23/01/2023
+#### Week 13: 22/01/2024
 
 | Lecture |  slides |
 | ------ | ---- |
 | MM01. Intro to COMS20011 - quite fishy |  |
 
 
-#### Week 14: 30/01/2023
+#### Week 14: 29/01/2024
 | Lecture |  slides |
 | ------ | ---- |
+
+#### Regression, maximum likelihood and classification (Charles)
