@@ -20,7 +20,7 @@ All lecture recordings eventually appear on the Re/Play system in BlackBoard afe
 
 ## Labs:
 * The labs are starting on Jan 29th, so there will be no lab on Jan 22nd.
-* The labs come with exercises as Python notebook.  A new set of exercises will be released every _two_ weeks.
+* The labs come with exercises as Python notebook.  A new set of exercises will be released every _TWO_ weeks.
 * Material in the labs may appear in the exam.
 * *The labs are the primary route for feedback on all aspects of the course, including lectures, any question sheets and exams, not just the labs!!!!*
 * The lab exercises will be released in the /labs/ folder.
