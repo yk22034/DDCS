@@ -19,7 +19,7 @@ The course will teach the basics of how to reason with data!
 All lecture recordings eventually appear on the Re/Play system in BlackBoard afew hours after the event. Click on Re/Play on the left menu bar on the BB course webpage to find them.
 
 ## Labs:
-* The labs are starting on Jan29th, so there will be no lab on 22th Jan.
+* The labs are starting on Jan 29th, so there will be no lab on Jan 22nd.
 * The labs come with exercises as Python notebook.  A new set of exercises will be released every _two_ weeks.
 * Material in the labs may appear in the exam.
 * *The labs are the primary route for feedback on all aspects of the course, including lectures, any question sheets and exams, not just the labs!!!!*
