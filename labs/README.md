@@ -9,14 +9,14 @@ Start by cloning the lab sheet to the machine you're working at (usually the loc
 
 2. Clone the lab repository from Github to your lab machine.
 ```
-git clone https://github.com/LaurenceA/COMS20011_2022.git
+git clone https://github.com/majidmirmehdi/COMS20011_23-24.git
 ```
 3. Pull the repository each time before the lab to get the latest updates of the repository.
 ```
-cd COMS20011_2022
+cd COMS20011_23-24
 git pull
 ```
-4. To start Jupyter notebooks, run 
+4. To start Jupyter notebooks, run
 ```
 /opt/anaconda3-4.4.0/bin/jupyter notebook
 ```
@@ -33,7 +33,7 @@ Option 1 and 2 are simpler to set up, and give you a remote desktop (i.e. its ju
 First, follow these instructions to set up the [VPN](https://uob.sharepoint.com/sites/itservices/SitePages/vpn-connect.aspx). Then, follow these guidelines provided by IT Services to set up a [Linux Remote Desktop](https://uob.sharepoint.com/sites/itservices/SitePages/fits-engineering-linux-x2go.aspx).  Should work on Mac, but apparently the required XQuartz software doesn't work well.  This is supported by IT, so any issues with this software can be sent to service-desk@bristol.ac.uk.
 
 #### Option 2: X Remote Desktop (Linux)
-If you are running an X server already (i.e. because you're running Linux locally), then open a shell on your machine, and type this command: 
+If you are running an X server already (i.e. because you're running Linux locally), then open a shell on your machine, and type this command:
 ```
 ssh -X -J youruserid@seis.bris.ac.uk youruserid@rd-mvb-linuxlab.bristol.ac.uk
 ```
@@ -48,12 +48,12 @@ This allows you to open Jupyter Notebook in a browser on your local machine whil
 ```
 ssh -L 6006:localhost:7373 -J user@seis.bris.ac.uk user@rd-mvb-linuxlab.bristol.ac.uk
 ```
-       
+
 2. Run Jupyter Notebook on the port mapped to your local machine: 7373
 ```
 /opt/anaconda3-4.4.0/bin/jupyter notebook --no-browser --port 7373
 ```
-      
+
 3. Open localhost:6006 in a web browser on your local machine and enter the token provided by Jupyter Notebook.
 
 *WSL is [Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/about).
