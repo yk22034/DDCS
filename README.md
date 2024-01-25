@@ -51,15 +51,15 @@ All lecture recordings eventually appear on the Re/Play system in BlackBoard afe
 
 #### Week 13: 22/01/2024
 
-| Lecture |  slides |
-| ------ | ---- |
+| Lecture | Slides |
+| ------- | ------ |
 | MM01. Intro to COMS20011 - a bit fishy! | [[pdf]](Slides/COMS20011-MMLec01.pdf) |
 | MM02. Sampling, Distance Measures | [[pdf]] |
 | Problem Sheet 01 (Self/Group study) | [[pdf]](ProblemSheets/ProblemSheet-MM01.pdf)  |
 
 
 #### Week 14: 29/01/2024
-| Lecture |  slides |
-| ------ | ---- |
+| Lecture | Slides |
+| ------- | ------ |
 
 #### Regression, maximum likelihood and classification (Charles)
