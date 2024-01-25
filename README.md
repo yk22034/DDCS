@@ -50,7 +50,7 @@ All lecture recordings eventually appear on the Re/Play system in BlackBoard afe
 
 | Lecture |  slides |
 | ------ | ---- |
-| MM01. Intro to COMS20011 - a bit fishy! | [[pdf]] |
+| MM01. Intro to COMS20011 - a bit fishy! | [[pdf]](Slides/COMS20011-MMLec01.pdf) |
 
 
 #### Week 14: 29/01/2024
