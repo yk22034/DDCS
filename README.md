@@ -18,7 +18,7 @@ The course will teach the basics of how to reason with data!
 ## Lecture recordings:
 All lecture recordings eventually appear on the Re/Play system in BlackBoard afew hours after the event. Click on Re/Play on the left menu bar on the BB course webpage to find them.
 
-```diff
+
 
 ## Labs:
 * The labs are starting on Jan 29th, so there will be no lab on Jan 22nd.
