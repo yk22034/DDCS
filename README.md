@@ -42,7 +42,7 @@ All lecture recordings eventually appear on the Re/Play system in BlackBoard afe
 
 ## Past exam papers:
 * Example past papers will be released soon after Week 20.
-
+ 
 ---
 
 ## Weekly Lecture materials
