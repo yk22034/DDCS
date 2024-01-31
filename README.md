@@ -42,7 +42,7 @@ All lecture recordings eventually appear on the Re/Play system in BlackBoard afe
 
 ## Past exam papers:
 * Example past papers will be released soon after Week 20.
- 
+
 ---
 
 ## Weekly Lecture materials
@@ -56,6 +56,7 @@ All lecture recordings eventually appear on the Re/Play system in BlackBoard afe
 | MM01. Intro to COMS20011 - a bit fishy! | [[pdf]](Slides/COMS20011-MMLec01.pdf) |
 | MM02. Sampling, Distance Measures | [[pdf]](Slides/COMS20011-MMLec02.pdf) |
 | Problem Sheet 01 (Self/Group study) | [[pdf]](ProblemSheets/ProblemSheet-MM01.pdf)  |
+| Problem Sheet 01 (Solutions) | [[pdf]](ProblemSheets/ProblemSheet-MM01-Solutions.pdf)  |
 
 
 #### Week 14: 29/01/2024
