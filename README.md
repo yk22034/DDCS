@@ -51,7 +51,7 @@ All lecture recordings eventually appear on the Re/Play system in BlackBoard afe
 
 #### Week 13: 22/01/2024
 
-| Lecture | Slides |
+| Lecture, etc. |  Slides, etc. |
 | ------- | ------ |
 | MM01. Intro to COMS20011 - a bit fishy! | [[pdf]](Slides/COMS20011-MMLec01.pdf) |
 | MM02. Sampling, Distance Measures | [[pdf]](Slides/COMS20011-MMLec02.pdf) |
@@ -60,9 +60,10 @@ All lecture recordings eventually appear on the Re/Play system in BlackBoard afe
 
 
 #### Week 14: 29/01/2024
-| Lecture | Slides |
+| Lecture, etc. | Slides, etc. |
 | ------- | ------ |
 | MM03. Data Characteristics, Covariance, Eigen Analysis, Outliers | [[pdf]](Slides/COMS20011-MMLec03.pdf) |
+| Problem Sheet 02 (Self/Group study) | [[pdf]](ProblemSheets/ProblemSheet-MM02.pdf)  |
 
 
 #### Regression, maximum likelihood and classification (Charles)
