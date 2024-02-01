@@ -62,7 +62,7 @@ All lecture recordings eventually appear on the Re/Play system in BlackBoard afe
 #### Week 14: 29/01/2024
 | Lecture | Slides |
 | ------- | ------ |
-| MM03. Data Characteristics, Covariance, Eigen Analysis, Outliers | pdf |
+| MM03. Data Characteristics, Covariance, Eigen Analysis, Outliers | [[pdf]](Slides/COMS20011-MMLec03.pdf) |
 
 
 #### Regression, maximum likelihood and classification (Charles)
