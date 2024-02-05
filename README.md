@@ -69,6 +69,6 @@ All lecture recordings eventually appear on the Re/Play system in BlackBoard afe
 #### Week 15: 05/02/2024
 | Lecture, etc. | Slides, etc. |
 | ------- | ------ |
-| MM05.  Mathematical prerequisites, Series, Logs and exponentials | [[pdf]](Slides/COMS20011-MMLec03.pdf) |
+| MM05.  Mathematical prerequisites, Series, Logs and exponentials | [[pdf]](notes/prereqs.pdf) |
 
 #### Regression, maximum likelihood and classification (Charles)
