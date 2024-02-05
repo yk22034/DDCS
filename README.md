@@ -64,6 +64,11 @@ All lecture recordings eventually appear on the Re/Play system in BlackBoard afe
 | ------- | ------ |
 | MM03. Data Characteristics, Covariance, Eigen Analysis, Outliers | [[pdf]](Slides/COMS20011-MMLec03.pdf) |
 | Problem Sheet 02 (Self/Group study) | [[pdf]](ProblemSheets/ProblemSheet-MM02.pdf)  |
+| MM04. Mathematical prerequisites, Calculus | [[pdf]](notes/prereqs.pdf) |
 
+#### Week 15: 05/02/2024
+| Lecture, etc. | Slides, etc. |
+| ------- | ------ |
+| MM05.  Mathematical prerequisites, Series, Logs and exponentials | [[pdf]](Slides/COMS20011-MMLec03.pdf) |
 
 #### Regression, maximum likelihood and classification (Charles)
