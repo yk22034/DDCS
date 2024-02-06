@@ -72,4 +72,9 @@ All lecture recordings eventually appear on the Re/Play system in BlackBoard afe
 | ------- | ------ |
 | CK02.  Mathematical prerequisites, Series, Logs and exponentials | [[pdf]](notes/prereqs.pdf) |
 
+#### Week 16: 12/02/2024
+| Lecture, etc. | Slides, etc. |
+| ------- | ------ |
+
+
 #### Regression, maximum likelihood and classification (Charles)
