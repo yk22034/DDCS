@@ -64,7 +64,6 @@ All lecture recordings eventually appear on the Re/Play system in BlackBoard afe
 | ------- | ------ |
 | MM03. Data Characteristics, Covariance, Eigen Analysis, Outliers | [[pdf]](Slides/COMS20011-MMLec03.pdf) |
 | Problem Sheet 02 (Self/Group study) | [[pdf]](ProblemSheets/ProblemSheet-MM02.pdf)  |
-| Problem Sheet 01 (Solutions) | [[pdf]](ProblemSheets/ProblemSheet-MM01-Solutions.pdf)  |
 | Problem Sheet 02 (Solutions) | [[pdf]](ProblemSheets/ProblemSheet-MM02-Solutions.pdf)  |
 | CK01. Mathematical prerequisites, Calculus | [[pdf]](notes/prereqs.pdf) |
 
