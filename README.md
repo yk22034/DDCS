@@ -71,10 +71,12 @@ All lecture recordings eventually appear on the Re/Play system in BlackBoard afe
 | Lecture, etc. | Slides, etc. |
 | ------- | ------ |
 | CK02.  Mathematical prerequisites, Series, Logs and exponentials | [[pdf]](notes/prereqs.pdf) |
+| CK03.  Mathematical prerequisites, Vectors, Matrices and Kronecker delta | [[pdf]](notes/prereqs.pdf) |
 
 #### Week 16: 12/02/2024
 | Lecture, etc. | Slides, etc. |
 | ------- | ------ |
+| CK04.  Regression, loss and curve fitting | [[pdf]](notes/regression.pdf) |
 
 
 #### Regression, maximum likelihood and classification (Charles)
