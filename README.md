@@ -42,7 +42,7 @@ All lecture recordings eventually appear on the Re/Play system in BlackBoard afe
 
 ## Past exam papers:
 * Example past papers will be released soon after Week 20.
- 
+
 ---
 
 ## Weekly Lecture materials
@@ -51,15 +51,32 @@ All lecture recordings eventually appear on the Re/Play system in BlackBoard afe
 
 #### Week 13: 22/01/2024
 
-| Lecture | Slides |
+| Lecture, etc. |  Slides, etc. |
 | ------- | ------ |
 | MM01. Intro to COMS20011 - a bit fishy! | [[pdf]](Slides/COMS20011-MMLec01.pdf) |
 | MM02. Sampling, Distance Measures | [[pdf]](Slides/COMS20011-MMLec02.pdf) |
 | Problem Sheet 01 (Self/Group study) | [[pdf]](ProblemSheets/ProblemSheet-MM01.pdf)  |
+| Problem Sheet 01 (Solutions) | [[pdf]](ProblemSheets/ProblemSheet-MM01-Solutions.pdf)  |
 
 
 #### Week 14: 29/01/2024
-| Lecture | Slides |
+| Lecture, etc. | Slides, etc. |
 | ------- | ------ |
+| MM03. Data Characteristics, Covariance, Eigen Analysis, Outliers | [[pdf]](Slides/COMS20011-MMLec03.pdf) |
+| Problem Sheet 02 (Self/Group study) | [[pdf]](ProblemSheets/ProblemSheet-MM02.pdf)  |
+| Problem Sheet 02 (Solutions) | [[pdf]](ProblemSheets/ProblemSheet-MM02-Solutions.pdf)  |
+| CK01. Mathematical prerequisites, Calculus | [[pdf]](notes/prereqs.pdf) |
+
+#### Week 15: 05/02/2024
+| Lecture, etc. | Slides, etc. |
+| ------- | ------ |
+| CK02.  Mathematical prerequisites, Series, Logs and exponentials | [[pdf]](notes/prereqs.pdf) |
+| CK03.  Mathematical prerequisites, Vectors, Matrices and Kronecker delta | [[pdf]](notes/prereqs.pdf) |
+
+#### Week 16: 12/02/2024
+| Lecture, etc. | Slides, etc. |
+| ------- | ------ |
+| CK04.  Regression, loss and curve fitting | [[pdf]](notes/regression.pdf) |
+
 
 #### Regression, maximum likelihood and classification (Charles)
