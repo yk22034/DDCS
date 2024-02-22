@@ -83,6 +83,6 @@ All lecture recordings eventually appear on the Re/Play system in BlackBoard afe
 | Lecture, etc. | Slides, etc. |
 | ------- | ------ |
 | CK06.  Regression, loss and curve fitting, many dimensions | [[pdf]](notes/regression.pdf) |
-| CK07.  Problems from regression, loss and curve fitting | [[pdf]](notes/regression.pdf) |
+| CK07.  Maximum likelihood | [[pdf]](notes/maximum_likelihood.pdf) |
 | Probabilistic Machine Learning | [[pdf]](notes/probabilistic&#32;machine&#32;learning.pdf) |
 | Mathematics for Machine Learning | [[pdf]](notes/mml-book.pdf) |
