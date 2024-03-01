@@ -75,7 +75,13 @@ All lecture recordings eventually appear on the Re/Play system in BlackBoard afe
 #### Week 16: 12/02/2024
 | Lecture, etc. | Slides, etc. |
 | ------- | ------ |
-| CK04.  Regression, loss and curve fitting | [[pdf]](notes/regression.pdf) |
+| CK04.  Problems from mathematical prerequisites. Regression, loss and curve fitting | [[pdf]](notes/regression.pdf) |
+| CK05.  Regression, loss and curve fitting, one dimensional | [[pdf]](notes/regression.pdf) |
 
-
-#### Regression, maximum likelihood and classification (Charles)
+#### Week 17: 19/02/2024
+| Lecture, etc. | Slides, etc. |
+| ------- | ------ |
+| CK06.  Regression, loss and curve fitting, many dimensions | [[pdf]](notes/regression.pdf) |
+| CK07.  Maximum likelihood | [[pdf]](notes/maximum_likelihood.pdf) |
+| Probabilistic Machine Learning | [[pdf]](notes/probabilistic&#32;machine&#32;learning.pdf) |
+| Mathematics for Machine Learning | [[pdf]](notes/mml-book.pdf) |
