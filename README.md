@@ -34,10 +34,9 @@ All lecture recordings eventually appear on the Re/Play system in BlackBoard afe
 
 ## Exam info:
 * The course is assessed 100% by a multiple-choice exam.
-* The exam will have ?? questions, and will be 2 hours. It does require a calculator.
+* The exam will have 20 questions, worth 100 marks, and will be 2 hours. It does require a calculator (which must be non-programmable).
 * If you have any questions regarding alternative exam arrangements, please get in touch with the COMS Student Enquiries Mailbox at coms-student-enquiries@bristol.ac.uk
-* There will be a formulae sheet with the exam.
-* We do NOT allow cheat-sheets for this exam.
+* The exam is closed-book (so no additional materials are allowed). There will be a formulae sheet with the exam.
 
 
 ## Past exam papers:
