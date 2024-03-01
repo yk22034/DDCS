@@ -86,5 +86,5 @@ All lecture recordings eventually appear on the Re/Play system in BlackBoard afe
 | Probabilistic Machine Learning | [[pdf]](notes/probabilistic&#32;machine&#32;learning.pdf) |
 | Mathematics for Machine Learning | [[pdf]](notes/mml-book.pdf) |
 
-#### Week 18: 19/02/2024
+#### Week 18: 26/02/2024
 Reading Week
