@@ -88,3 +88,8 @@ All lecture recordings eventually appear on the Re/Play system in BlackBoard afe
 
 #### Week 18: 26/02/2024
 Reading Week
+
+#### Week 19: 04/03/2024
+| Lecture, etc. | Slides, etc. |
+| ------- | ------ |
+| CK08 and CK09.  Maximum likelihood | [[pdf]](notes/maximum_likelihood.pdf) |
