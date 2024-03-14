@@ -49,7 +49,6 @@ All lecture recordings eventually appear on the Re/Play system in BlackBoard afe
 ### Introduction (Majid)
 
 #### Week 13: 22/01/2024
-
 | Lecture, etc. |  Slides, etc. |
 | ------- | ------ |
 | MM01. Intro to COMS20011 - a bit fishy! | [[pdf]](Slides/COMS20011-MMLec01.pdf) |
@@ -93,3 +92,15 @@ Reading Week
 | Lecture, etc. | Slides, etc. |
 | ------- | ------ |
 | CK08 and CK09.  Maximum likelihood | [[pdf]](notes/maximum_likelihood.pdf) |
+
+#### Week 20: 11/03/2024
+| Lecture, etc. |  Slides, etc. |
+| ------- | ------ |
+| MM01. Signals | [[pdf]] |
+| Problem Sheet 03 (Self/Group study) | [[pdf]]  |
+| Problem Sheet 03 (Solutions) | [[pdf]] |
+
+#### Week 21: 18/03/2024
+#### Week 22: 15/04/2024
+#### Week 23: 22/04/2024
+#### Week 24: 29/04/2024
