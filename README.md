@@ -96,11 +96,12 @@ Reading Week
 #### Week 20: 11/03/2024
 | Lecture, etc. |  Slides, etc. |
 | ------- | ------ |
-| MM01. Signals | [[pdf]] |
-| Problem Sheet 03 (Self/Group study) | [[pdf]]  |
-| Problem Sheet 03 (Solutions) | [[pdf]] |
+| MM04. Signals & Frequencies| [[pdf]](Slides/COMS20011-MMLec04.pdf) |
+
 
 #### Week 21: 18/03/2024
+| Problem Sheet 03 (Self/Group study) | [[pdf]]  released on Thursday |
+| Problem Sheet 03 (Solutions) | [[pdf]] |
 #### Week 22: 15/04/2024
 #### Week 23: 22/04/2024
 #### Week 24: 29/04/2024
